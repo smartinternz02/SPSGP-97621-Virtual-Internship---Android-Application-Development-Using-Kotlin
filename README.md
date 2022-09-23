@@ -8,6 +8,6 @@ Google Developers Profile link :- https://developers.google.com/profile/u/107327
 
 Output Screenshot :-
 
-![App-1](https://ibb.co/g38WQ99)
+![App-1](https://github.com/smartinternz02/SPSGP-97621-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/main/screenshot/Screenshot%202022-09-23%20212356.jpg)
 
 "# SPSGP-97621-Virtual-Internship---Android-Application-Development-Using-Kotlin" 
